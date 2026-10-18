@@ -3,14 +3,6 @@
 Auteur : Sekri Marouan, 18/10/2026
 
 
-## Lancer l'application
-
-```
-cd tp_php
-php -S localhost:8000
-```
-
-Puis ouvrir `http://localhost:8000/exo1_bases.php` (ou `saisie.html`, `login.php`...).
 
 ## Contenu
 
