@@ -2,7 +2,6 @@
 
 Auteur : Sekri Marouan, 18/10/2026
 
-Mini-application PHP (saisie, stockage, affichage et analyse des notes d'une classe).
 
 ## Lancer l'application
 
